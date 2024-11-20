@@ -1,7 +1,10 @@
 Hi 👋, I'm Gabriela Barrera
 
 Web Developer in constant learning
-Welcome to my GitHub profile! I’m passionate about creating applications that solve real-world problems and deliver exceptional user experiences. I’m constantly learning to grow professionally and contribute with innovative solutions.
+Welcome to my GitHub profile! 
+
+I’m passionate about creating applications that solve real-world problems and deliver exceptional user experiences. 
+I’m constantly learning to grow professionally and contribute with innovative solutions.
 
 🔭 Currently
 I work at Glopit, an e-commerce company, where I contribute to projects focused on improving the customer experience.
