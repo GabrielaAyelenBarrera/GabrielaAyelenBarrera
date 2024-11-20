@@ -1,4 +1,4 @@
-##Hi 👋, I'm Gabriela Barrera
+Hi 👋, I'm Gabriela Barrera
 
 Web Developer in constant learning
 Welcome to my GitHub profile! I’m passionate about creating applications that solve real-world problems and deliver exceptional user experiences. I’m constantly learning to grow professionally and contribute with innovative solutions.
