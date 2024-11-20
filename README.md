@@ -23,4 +23,8 @@ Email: Gabrielaayelenbarrera1145@gmail.com
 📄 Learn More About Me
 Visit my LinkedIn profile to learn more about my experiences, skills, and notable projects www.linkedin.com/in/gabrielabarrera-.
 
+Languages and Tools:
+html5 css3 bootstrap sass javascript typescript react nodejs sql
+
+
 Thank you for visiting! I’m open to new opportunities and collaborations, so don’t hesitate to contact me if you’d like to work together or simply chat about web development. 😊
