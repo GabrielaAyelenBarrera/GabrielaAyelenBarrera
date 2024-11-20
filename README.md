@@ -21,6 +21,6 @@ Feel free to reach out!
 Email: Gabrielaayelenbarrera1145@gmail.com
 
 📄 Learn More About Me
-Visit my LinkedIn profile to learn more about my experiences, skills, and notable projects.
+Visit my LinkedIn profile to learn more about my experiences, skills, and notable projects www.linkedin.com/in/gabrielabarrera-.
 
 Thank you for visiting! I’m open to new opportunities and collaborations, so don’t hesitate to contact me if you’d like to work together or simply chat about web development. 😊
