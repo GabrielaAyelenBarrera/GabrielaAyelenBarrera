@@ -1,6 +1,6 @@
 👋 ¡Hola! Soy Gabriela Barrera
 
-Desarrolladora Web en constante aprendizaje. ¡Bienvenido/a  a mi perfil de GitHub!
+Desarrolladora Web en constante aprendizaje. ¡Bienvenidos a mi perfil de GitHub!
 
 Me encuentro en un proceso continuo de aprendizaje para crecer profesionalmente y aportar soluciones innovadoras.
 
