@@ -1,24 +1,24 @@
-👋 Hi! I'm Gabriela Barrera
+👋 ¡Hola! Soy Gabriela Barrera
 
-Web Developer in constant learning. Welcome to my GitHub profile!
+Desarrolladora Web en constante aprendizaje. ¡Bienvenido/a a mi perfil de GitHub!
 
-I’m passionate about creating applications that solve real-world problems and deliver exceptional user experiences. I’m continuously learning to grow professionally and contribute with innovative solutions.
+Me encuentro en un proceso continuo de aprendizaje para crecer profesionalmente y aportar soluciones innovadoras.
 
-🔭 Currently, I work at Glopit, an e-commerce company, where I contribute to projects focused on improving the customer experience.
+🔭 Actualmente trabajo en Glopit, una empresa de e-commerce, donde participo en gestiones enfocados en mejorar la experiencia del cliente.
 
-🌱 Learning: I’m deepening my knowledge in Backend development, strengthening my skills to build complete, scalable, and robust applications.
+🌱 Aprendizaje: estoy profundizando mis conocimientos actualmente cursando la carrera de Analista de Sistemas.
 
-👩‍💻 Explore More: Discover my skills and projects in detail on my website.
+👩‍💻 Explorá más: descubrí en detalle mis habilidades y proyectos a través de mis repositorios.
 
-📫 How to Contact Me: Feel free to reach out!
+📫 Cómo contactarme: ¡no dudes en escribirme!
 
-✉️ Email: gabrielaayelenbarrera1145@gmail.com
+✉️ Email:
+gabrielaayelenbarrera1145@gmail.com
 
-📄 Learn More About Me: Visit my LinkedIn profile to learn more about my experience, skills, and notable projects:
-👉 www.linkedin.com/in/gabrielabarrera-
+📄 Conocé más sobre mí: visitá mi perfil de LinkedIn para conocer mi experiencia, habilidades y proyectos destacados:
+👉 https://www.linkedin.com/in/gabrielabarrera
 
-🛠️ Languages and Tools
-HTML5 | CSS3 | Bootstrap | Sass | JavaScript | TypeScript | React | Node.js | SQL
+🛠️ Lenguajes y herramientas
+HTML5 | CSS3 | Bootstrap | Sass | JavaScript | TypeScript | React | Node.js | SQL | Java
 
-✨ Thank you for visiting my profile!
-I’m open to new opportunities and collaborations, so don’t hesitate to contact me if you’d like to work together or simply chat about web development 😊
+✨ ¡Gracias por visitar mi perfil!
