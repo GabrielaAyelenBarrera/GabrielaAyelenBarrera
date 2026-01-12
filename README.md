@@ -1,4 +1,4 @@
-👋 ¡Hola Soy Gabriela Barrera!
+¡Hola Soy Gabriela Barrera!👋 
 
 Desarrolladora Web en constante aprendizaje. 
 
@@ -26,4 +26,4 @@ https://www.linkedin.com/in/gabrielabarrera-/
 🛠️ Lenguajes y herramientas
 HTML5 | CSS3 | Bootstrap | Sass | JavaScript | TypeScript | React | Node.js | SQL | Java
 
-✨ ¡Gracias por visitar mi perfil y acompañarme en mi crecimiento! 🌱
+¡Gracias por visitar mi perfil y acompañarme en mi crecimiento! 🌱
