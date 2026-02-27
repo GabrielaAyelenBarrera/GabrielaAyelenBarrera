@@ -1,6 +1,6 @@
 ¡Hola Soy Gabriela Barrera!👋 
 
-Estudiante de sistemas, curiosa, ordenada, orientada a procesos. Aprendiendo backend y construyendo proyectos paso a paso.  
+Estudiante de sistemas, curiosa, creativa, ordenada, orientada a procesos. Aprendiendo backend y construyendo proyectos paso a paso.  
 
 ¡Bienvenidos a mi perfil de GitHub!
 
