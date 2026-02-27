@@ -1,6 +1,6 @@
 ¡Hola Soy Gabriela Barrera!👋 
 
-Estudiante de sistemas, curiosa, creativa, ordenada, orientada a procesos. Aprendiendo backend y construyendo proyectos paso a paso.  
+Estudiante de sistemas, curiosa, creativa, aprendiendo backend y construyendo proyectos paso a paso.  
 
 ¡Bienvenidos a mi perfil de GitHub!
 
@@ -19,11 +19,11 @@ https://github.com/GabrielaAyelenBarrera?tab=repositories
 ✉️ Email:
 gabrielaayelenbarrera1145@gmail.com
 
-📄 Conocé más sobre mí visitando mi perfil de LinkedIn para conocer mi experiencia y habilidades:
+📄 Conocé más sobre mí visitando mi perfil de LinkedIn para conocer mi experiencia:
 
 https://www.linkedin.com/in/gabrielabarrera-/
 
-🛠️ Lenguajes y herramientas que vengo usando
+🛠️ Lenguajes y herramientas que vengo usando:
 HTML5 | CSS3 | Bootstrap | Sass | JavaScript | TypeScript | React | Node.js | SQL | Java
 
 ¡Gracias por acompañarme en mi crecimiento! 🌱
