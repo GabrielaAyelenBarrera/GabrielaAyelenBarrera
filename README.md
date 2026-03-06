@@ -17,7 +17,7 @@ https://github.com/GabrielaAyelenBarrera?tab=repositories
 📫 Cómo contactarme: ¡no dudes en escribirme!
 
 ✉️ Email:
-gabrielaayelenbarrera1145@gmail.com
+gabrielaayelenbarrera1@gmail.com
 
 📄 Conocé más sobre mí visitando mi perfil de LinkedIn para conocer mi experiencia:
 
